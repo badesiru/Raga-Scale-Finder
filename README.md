@@ -1,0 +1,2 @@
+# bdaycalculator
+# PanchamaAndMadhyamaFinder
